@@ -1,0 +1,12 @@
+# Climate Watch data (lokale dataset)
+data_climate_watch/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / Python / misc (optioneel, maar vaak handig)
+node_modules/
+.env
+__pycache__/
+*.log
