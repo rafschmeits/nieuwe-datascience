@@ -22,3 +22,9 @@ in deze grafiek is de cooling bias van de elektronische thermostaten die vanaf 1
 
 ![alt text](image-6.png)
 op de wereld kaart is te zien dat het rond de evenaar het warmst is en ook in india.
+
+
+
+site co2 uitstoot: https://edgar.jrc.ec.europa.eu/report_2025#data_download
+site population data: https://data.worldbank.org/indicator/SP.POP.TOTL
+site bbp data: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
