@@ -23,7 +23,17 @@ in deze grafiek is de cooling bias van de elektronische thermostaten die vanaf 1
 ![alt text](image-6.png)
 op de wereld kaart is te zien dat het rond de evenaar het warmst is en ook in india.
 
+![alt text](image-8.png)
+Tussen Temperatuur en CO2 uitstoot is een positieve correlatie gevonden van 0.85 (sterke correlatie). Dit betekend hoe meer CO2 uitgestoten wordt hoe meer de aarde opwarmt
 
+![alt text](image-9.png)
+Tussen temperatuur en populatie is een positieve correlatie gevonden van 0.89 (sterke correlatie). Dit beteknd hoe groter de wereld populatie de warmer het wordt. Dit kan komen omdat er voor meer mensen meer voedsel nodig is dus meer akkers komen en er meer ontbossing is. Ook worden er meer producten gemaakt wat de CO2 uitstoor verhoogd.
+
+![alt text](image-10.png)
+Tussen temperatuur en GDP is een negatieve correlatie gevonden van -0.34 (zwakke correlatie). 
+
+![alt text](image-11.png)
+Tussen temperatuur en energie verbruik is een positieve correlatie van 0.89 (sterke correlatie). dit kan komen omdat bij veel van de opgewekte energie CO2 vrij komt.
 
 site co2 uitstoot: https://edgar.jrc.ec.europa.eu/report_2025#data_download
 site population data: https://data.worldbank.org/indicator/SP.POP.TOTL
