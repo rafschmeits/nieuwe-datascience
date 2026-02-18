@@ -28,3 +28,4 @@ op de wereld kaart is te zien dat het rond de evenaar het warmst is en ook in in
 site co2 uitstoot: https://edgar.jrc.ec.europa.eu/report_2025#data_download
 site population data: https://data.worldbank.org/indicator/SP.POP.TOTL
 site bbp data: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+site energie verbruik https://ourworldindata.org/grapher/primary-energy-cons?mapSelect=~OWID_HIC&overlay=download-data#explore-the-data
